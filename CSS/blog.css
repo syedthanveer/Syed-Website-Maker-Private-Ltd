@@ -1,0 +1,83 @@
+body
+{
+  margin: 0
+}
+
+  .blog{
+    background-color: #e0ece4;
+    padding: 10px;
+    height: 1300px;
+    font-size: 20px;
+      }
+
+  .my1{
+    position: absolute;
+    right: 30px;
+    top: 20px;
+    border-radius: 50%;
+
+      }
+
+  h1{
+    color: #307a59;
+  }
+  h2{
+    color : #307a59;
+  }
+
+.Owner{
+  position: absolute;
+  top: 150px;
+  right: 50px;
+}
+
+.description{
+
+    position: absolute;
+    top: 150px;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 2;
+}
+
+.my-blog{
+  text-align: center;
+}
+
+.blog-end
+{
+  position: absolute;
+  top: 900px;
+  text-align: center;
+}
+
+.button {
+   border-top: 1px solid #96d1f8;
+   background: #65a9d7;
+   background: -webkit-gradient(linear, left top, left bottom, from(#fe7171), to(#65a9d7));
+   background: -webkit-linear-gradient(top, #fe7171, #65a9d7);
+   background: -moz-linear-gradient(top, #fe7171, #65a9d7);
+   background: -ms-linear-gradient(top, #fe7171, #65a9d7);
+   background: -o-linear-gradient(top, #fe7171, #65a9d7);
+   padding: 13px 26px;
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: #000000;
+   font-size: 15px;
+   font-family: Georgia, serif;
+   text-decoration: none;
+   vertical-align: middle;
+   }
+.button:hover {
+   border-top-color: #28597a;
+   background: #28597a;
+   color: #ccc;
+   }
+.button:active {
+   border-top-color: #1b435e;
+   background: #1b435e;
+   }

@@ -1,0 +1,128 @@
+body{
+  margin: 0;
+}
+
+.top-container{
+  background-color: #dddddd;
+height: 280px;
+width: auto;
+}
+.my
+{
+  position: absolute;
+  top: 50px;
+  right: 10px;
+  border-radius: 50%;
+}
+
+.logo{
+  position: absolute;
+  top: 50px;
+  left: 10px;
+}
+
+.welcome{
+position: absolute;
+right: 450px;
+top: 10px;
+color: #307a59;
+}
+.welcome1{
+  position: absolute;
+  left: 600px;
+  top: 60px;
+  color: #307a59;
+}
+
+.top-content
+{
+position: absolute;
+right: 5px;
+top: 10px;
+margin: auto 20px;
+
+}
+
+a{
+margin: 10px 20px;
+text-decoration: none;
+}
+
+a:hover
+{
+color: #EAF6F6;
+}
+
+.apj{
+  height: 150px;
+  width: 200px;
+  border-radius: 50%;
+  position: absolute;
+  right: 20px;
+  top: 50px;
+}
+
+.middle-container{
+
+  height: 392px;
+  width: auto;
+}
+
+.bottom-container{
+  height: auto;
+  text-align: center;
+  line-height: 2;
+
+}
+
+h2{
+
+  color: #307a59;
+}
+
+
+
+.content1{
+
+  float: left;
+  position: absolute;
+  left:10px;
+}
+.bottom1 {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  font-size: 20px;
+}
+
+.content2{
+
+  float: right;
+  position: absolute;
+  right:70px;
+}
+
+.bottom2 {
+    width: 50%;
+    margin: auto 100px auto 100px;
+    text-align: left;
+    line-height: 2;
+    font-size: 20px;
+}
+
+.end{
+  background-color: #e0ece4;
+  padding: 50px 0 30px;
+  text-align: center;
+  font-family: sans-serif;
+
+}
+.footer-link{
+  font-size: 25px;
+  color: #307a59;
+}
+
+.copyright {
+  padding-top: 20px;
+}
